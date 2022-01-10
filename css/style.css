@@ -1,0 +1,12 @@
+body{
+    margin: 0px !important ;
+    background-color: rgb(230, 230, 230) !important ; 
+}
+
+
+#search{
+    background-color:#f0f0f1 !important;
+    width: 500px;
+
+    border-radius: 10px;
+}
